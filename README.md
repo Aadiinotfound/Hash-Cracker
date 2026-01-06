@@ -55,5 +55,5 @@ This project is licensed under the MIT License.
 You're free to use, modify, and distribute it — with attribution.
 
 Author
-Created by @ishasahlot
+Created by @Aadiinotfound
 Give it a ⭐ if you found it useful!
